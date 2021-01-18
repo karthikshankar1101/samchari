@@ -1,0 +1,32 @@
+.nav-style li:hover{
+	background:orange;
+}				
+.nav-style{
+	font-family: Times New Roman;
+}
+.gallery{
+	font-family: Courier New;
+	color:white;
+} 
+.gallery h1{
+	font-family: Courier New;
+	color:white;
+	text-align:center;
+	text-decoration:underline;
+}
+.about_block{
+	padding-top:90px;
+	font-family:Courier New ;
+	color:white;
+	font-size:40px;
+}
+.about_content{
+	font-family:times new roman;
+	color:white;
+	font-size:30px;
+}
+.about_body{
+	font-family:times new roman;
+	color:white;
+	font-size:26px;
+}
